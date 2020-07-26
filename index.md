@@ -69,7 +69,7 @@ In het team was ik verantwoordelijk voor de design en implementatie van het IT c
 
 |||
 |-|-|
-|Methodieken | Object GeoriÃ«nteerd Ontwerp, UML, Code reviews |
+|Methodieken | Object Georiënteerd Ontwerp, UML, Code reviews |
 |Tools | Subversion, Intel compiler, Make |
 |Operating Systems | Windows 7, Linux Redhat. |
 |Talen | C++/C#/Managed versus Unmanged .NET |
@@ -85,8 +85,8 @@ In het team was ik verantwoordelijk voor ontwerpwerk en belangrijke implementati
  
 |||
 |-|-|
-| Methodieken | Object GeoriÃ«nteerd Ontwerp, RUP, Test Driven Development |
-| Tools | MicrosoftÂ® Visual Studio 2005, Sql Server Management studio, Subversion, Altova (XMLSpy), VMWare, MyGeneration |
+| Methodieken | Object Georiënteerd Ontwerp, RUP, Test Driven Development |
+| Tools | Microsoft Visual Studio 2005, Sql Server Management studio, Subversion, Altova (XMLSpy), VMWare, MyGeneration |
 | Operating Systems | Windows XP, Windows 2000, Windows XP 64-bit |
 | Talen  | C#, Sql, XML, XSD, XSLT, XPATH, Windows Workflow Foundations, IronPython |  
  
@@ -98,8 +98,8 @@ verbeteringen aan de architectuur, Qt GUI en de reken kern. Tevens zijn er een a
  
 |||
 |-|-|
-| Methodieken | Object GeoriÃ«nteerd Ontwerp, UML, RUP |
-| Tools | MicrosoftÂ® Visual C++, Intel Compiler, Lint, GNUmake, Insure++, Wise for Windows installer 3.51 and hoger, CVS, Apache, Qt, Coin3d, OpenGL, ODBC, CORBA, COM |
+| Methodieken | Object Georiënteerd Ontwerp, UML, RUP |
+| Tools | Microsoft Visual C++, Intel Compiler, Lint, GNUmake, Insure++, Wise for Windows installer 3.51 and hoger, CVS, Apache, Qt, Coin3d, OpenGL, ODBC, CORBA, COM |
 | Operating Systems | Windows XP, Windows 2000, Windows XP 64-bit, Linux, Linux 64-bit, AIX 4.3, AIX 5.1, SunOS 5.8 |
 | Talen | C++, Fortran, Perl, Xerces, XML, XSLT, XPATH |
 | Kenmerken | Reservoir Simulator, wereldwijde gebruikers groep |
