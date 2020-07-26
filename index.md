@@ -36,15 +36,15 @@ __Elektrotechniek, Delft.__
 `2014 - Heden`
 **Senior sofware engineer**, DianaFEA, multi-purpose eindige elementen software programma, Delft
 
-Diana is een multi-purpose eindige elementen software programma. Sinds 5 jaar wordt er door een team van 6 mensen gewerkt aan een nieuwe gebruikersinterface. Deze interface maakt het mogelijk dat junior constructeurs 'standaard' constructies snel en correct kunnen doorrekenen en ervaren constructeurs kunnen geavanceerde grote constructies modelleren. Dit wordt onder andere  gerealiseerd door een intuïtieve gebruikersinterface, geometrisch modelleren, 3d visualisatie van de resultaten en scripting mogelijkheden. Meer informatie is te zien in de volgende video feed <a href="https://www.youtube.com/user/TNODianaBV/feed">Diana FEA Youtube</a>.
+Diana is een multi-purpose eindige elementen software programma. Sinds 6 jaar wordt er door een team van 6 mensen gewerkt aan een nieuwe gebruikersinterface. Deze interface maakt het mogelijk dat junior constructeurs 'standaard' constructies snel en correct kunnen doorrekenen en ervaren constructeurs kunnen geavanceerde grote constructies modelleren. Dit wordt onder andere  gerealiseerd door een intuïtieve gebruikersinterface, geometrisch modelleren, 3d visualisatie van de resultaten en scripting mogelijkheden. Meer informatie is te zien in de volgende video feed <a href="https://www.youtube.com/user/TNODianaBV/feed">Diana FEA Youtube</a>.
 
 |||
 |-|-|
 |Methodieken | Object Georiënteerd Ontwerp |
-|Tools | Subversion, QtCreator, Squish (Gui Test Automation), Visual Studio |
+|Tools | Subversion, QtCreator, Squish (Gui Test Automation), Visual Studio, Jenkins, Pivotal Tracker |
 |Operating Systems | Windows 10, Linux Centos |
 |Talen | C++, Python, CMake |
-|Libs| <a href="https://en.wikipedia.org/wiki/Parasolid">Parasolid</a>, <a href="https://www.qt.io/">Qt</a>, <a href="https://www.computing-objects.com/">CM2 mesher</a>, VTK
+|Libs| <a href="https://en.wikipedia.org/wiki/Parasolid">Parasolid</a>, <a href="https://www.qt.io/">Qt</a>, <a href="https://www.computing-objects.com/">CM2 mesher</a>, <a href="https://vtk.org/">VTK</a>
 | Kenmerken | GUI, 3D, Eindige elementen |
 
 `2010 - 2014`
@@ -54,7 +54,7 @@ Het Dynamic Reservoir Modelling System (DRMS/CoFlow) wordt ontwikkeld door CMG (
 
 |||
 |-|-|
-|Methodieken | Object GeoriÃ«nteerd Ontwerp, UML, Scrum, Test driven development, Code reviews |
+|Methodieken | Object Georiënteerd Ontwerp, UML, Scrum, Test driven development, Code reviews |
 |Tools | Subversion Visual Studio 2010/2012, SqlServer, NUnit |
 |Operating Systems | Windows 7, Linux Redhat, Mono |
 |Talen |  C#, Python, WPF, Scons, MSBuild |
@@ -144,7 +144,7 @@ Meegewerkt als tester en bouwer in het project Beslis- en Ondersteunend Systeem 
 `2015-Heden`
 **Dart Statistieken**, Mastercaller, Delft
 
-<a href="https://stats.idarts.nl">Content delivery site</a> voor dart statistieken. In opdracht van de tv commentator en dart deskundige J. Nieuwlaat heb ik een dart database site opgezet. Hierin worden alle uitslagen van de grote darttoernooien  opgeslagen. Dagelijks wordt deze site geraadpleegd en aangevuld door RTL7 dartverslaggevers. Tevens is er een web api gerealiseerd om data te kunnen aanleveren aan derden. Huidige klanten zijn o.a.: PDC, RTL7 site, mastercaller site en de Bulls dart site. 
+<a href="https://stats.idarts.nl">Content delivery site</a> voor dart statistieken. In opdracht van de tv commentator en dart deskundige J. Nieuwlaat heb ik een dart web application gerealiseerd. Hierin worden alle uitslagen van de grote darttoernooien opgeslagen. Dagelijks wordt deze site geraadpleegd en aangevuld door RTL7 dartverslaggevers. Tevens is er een web api gerealiseerd om data te kunnen aanleveren aan derden. Huidige klanten zijn o.a.: PDC, RTL7 site, mastercaller site en de Bulls dart site. 
 
 Toolset: C#, .Net Core MVC, Javascript, Git, Visual Studio
 
@@ -165,7 +165,7 @@ Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Azure, Visual
 `2004-2018`
 **Dart competitie software**, DID, Delft
 
-Implementatie en onderhouden van de competitie site van <a href="did.idarts.nl">Darts in Delft</a>. Initieel geïmplementeerd in PHP en naderhand geconverteerd naar ASP.NET MVC. Op deze site worden de standen en wedstrijden bijgehouden van circa 800 dartspelers. 
+Implementatie en onderhouden van de competitie site van <a href="did.idarts.nl">Darts in Delft</a>. Initieel geïmplementeerd in PHP en later geconverteerd naar ASP.NET MVC. Op deze site worden de standen en wedstrijden bijgehouden van circa 800 dartspelers. 
 
 Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Visual Studio
 
@@ -176,13 +176,13 @@ Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Visual Studio
    
 ## Hobbies   
 
-Computers, Computer Graphics, Website design, Web (verschillende sites ontworpen en gerealiseerd), lezen vakliteratuur, muziek, films, puzzelen, geocachen, MTB, tennis, squash en snowboarden. 
+Computers, Computer Graphics, Website design, Web (verschillende sites ontworpen en gerealiseerd), lezen, muziek, films, puzzelen, geocachen, MTB, tennis, squash en snowboarden. 
 
-In de afgelopen jaren heb ik een freelance design studio geholpen bij het ontwerpen en implementeren van verschillende websites. Hierbij ben ik in aanraking gekomen met een grote verscheidenheid van talen, tools en framewerken. Voorbeelden did.idarts.nl, cinfield.nl, bouwgrip.nl, aplinesports.nl. 
+In de afgelopen jaren heb ik een freelance design studio geholpen bij het ontwerpen en implementeren van verschillende websites. Hierbij ben ik in aanraking gekomen met een grote verscheidenheid van talen, tools en framewerken. Voorbeelden did.idarts.nl, cinfield.nl, bouwgrip.nl, alpinesports.nl. 
 Een selectie van de tools en technieken: PHP, MySql, Wordpress, Silverstripe, HTML, XML, CSS, ASP.NET MVC, SqlServer, Javascript, C#, Entity Framework, Code First, JQuery, JQuery UI, Ajax, knockout, SignalR en Twitter Bootstrap.
 
-<!-- ### Footer
-
-Last updated: Sept 2019 -->
+<!-- ### Footer 
+   Last updated: Juli 2020 -
+->
 
 
