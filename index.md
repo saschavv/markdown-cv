@@ -38,12 +38,18 @@ __Elektrotechniek, Delft.__
 
 Diana is een multi-purpose eindige elementen software programma. Sinds 6 jaar wordt er door een team van 6 mensen gewerkt aan een nieuwe gebruikersinterface. Deze interface maakt het mogelijk dat junior constructeurs 'standaard' constructies snel en correct kunnen doorrekenen en ervaren constructeurs kunnen geavanceerde grote constructies modelleren. Dit wordt onder andere  gerealiseerd door een intuïtieve gebruikersinterface, geometrisch modelleren, 3d visualisatie van de resultaten en scripting mogelijkheden. Meer informatie is te zien in de volgende video feed <a href="https://www.youtube.com/user/TNODianaBV/feed">Diana FEA Youtube</a>.
 
+De werkzaamheden waren oa:
+ * design/implementatie/test grafische user interface.
+ * ontsluiten functionaliteit via python api.
+ * 3d visualisatie en manipulatie van domain data.
+ * design/implementie/test uitbereidingen domain model.
+ 
 |||
 |-|-|
-|Methodieken | Object Georiënteerd Ontwerp |
+|Methodieken | Object Georiënteerd Ontwerp, Code reviews |
 |Tools | Subversion, QtCreator, Squish (Gui Test Automation), Visual Studio, Jenkins, Pivotal Tracker |
 |Operating Systems | Windows 10, Linux Centos |
-|Talen | C++, Python, CMake |
+|Talen | C++, Python, CMake, Swig |
 |Libs| <a href="https://en.wikipedia.org/wiki/Parasolid">Parasolid</a>, <a href="https://www.qt.io/">Qt</a>, <a href="https://www.computing-objects.com/">CM2 mesher</a>, <a href="https://vtk.org/">VTK</a>
 | Kenmerken | GUI, 3D, Eindige elementen |
 
@@ -65,7 +71,7 @@ Het Dynamic Reservoir Modelling System (DRMS/CoFlow) wordt ontwikkeld door CMG (
 
 De focus van het geomechanica project was om het geo-mechanische gedrag van een olie of gasveld te combineren met de Dynamo stroom simulatie. Het team heeft dit bereikt door het gebruik van de eindige elementen simulator van TNO Diana. Via 'GEOMEC' kan de structuur en verschillende eigenschappen van het reservoir worden gedeeld tussen de twee pakketten.   
  
-In het team was ik verantwoordelijk voor de design en implementatie van het IT component van deze nieuwe koppeling. Het component is zowel geÃ¯ntegreerd in Dynamo (zie hieronder) als in DRMS.
+In het team was ik verantwoordelijk voor de design en implementatie van het IT component van deze nieuwe koppeling. Het component is zowel geintegreerd in Dynamo (zie hieronder) als in DRMS.
 
 |||
 |-|-|
@@ -107,7 +113,8 @@ verbeteringen aan de architectuur, Qt GUI en de reken kern. Tevens zijn er een a
  `2001 - 2003`
 **Sofware engineer**, CGI - Rijkswaterstaat (Directie zeeland), NSTA, Den Haag
 
-Dit project richt zich op de Stormvloedkering Oosterschelde en wel op Ã©Ã©n specifiek aspect daarvan, namelijk het zogeheten "noodsluitsysteem", het NSTA. Het NSTA maakt deel uit van het totale beheers- en bedieningssysteem van de Stormvloedkering Oosterschelde. Zonder menselijke tussenkomst zal het NSTA de stormvloedkering sluiten zodra de waterstand vastgestelde grenzen overschrijdt. Bij het realiseren van het NSTA systeem was ik onderdeel van het bouwteam. Binnen dit team was ik actief als programmeur en als bouwteamleider. 
+Dit project richt zich op de Stormvloedkering Oosterschelde en wel op Zoekresultaten
+Webresultaten één specifiek aspect daarvan, namelijk het zogeheten "noodsluitsysteem", het NSTA. Het NSTA maakt deel uit van het totale beheers- en bedieningssysteem van de Stormvloedkering Oosterschelde. Zonder menselijke tussenkomst zal het NSTA de stormvloedkering sluiten zodra de waterstand vastgestelde grenzen overschrijdt. Bij het realiseren van het NSTA systeem was ik onderdeel van het bouwteam. Binnen dit team was ik actief als programmeur en als bouwteamleider. 
 
 |||
 |-|-|
@@ -144,30 +151,32 @@ Meegewerkt als tester en bouwer in het project Beslis- en Ondersteunend Systeem 
 `2015-Heden`
 **Dart Statistieken**, Mastercaller, Delft
 
-<a href="https://stats.idarts.nl">Content delivery site</a> voor dart statistieken. In opdracht van de tv commentator en dart deskundige J. Nieuwlaat heb ik een dart web application gerealiseerd. Hierin worden alle uitslagen van de grote darttoernooien opgeslagen. Dagelijks wordt deze site geraadpleegd en aangevuld door RTL7 dartverslaggevers. Tevens is er een web api gerealiseerd om data te kunnen aanleveren aan derden. Huidige klanten zijn o.a.: PDC, RTL7 site, mastercaller site en de Bulls dart site. 
+<a href="https://stats.idarts.nl">Content delivery site</a> voor dart statistieken. In opdracht van de tv commentator en dart deskundige J. Nieuwlaat heb ik een dart web application gerealiseerd. Hierin worden de uitslagen van de grote darttoernooien opgeslagen. Inmiddels zijn dit een kwart miljoen wedstrijden verdeelt over 1000 toernooien. Dagelijks wordt deze site geraadpleegd en aangevuld door RTL7 dartverslaggevers. Tevens is er een web api gerealiseerd om data te kunnen aanleveren aan derden. Huidige klanten zijn o.a.: PDC, RTL7 site, mastercaller site en de Bulls dart site. 
 
-Toolset: C#, .Net Core MVC, Javascript, Git, Visual Studio
+Voor deze web applicatie is ook een concept Xamarin mobile applicatie ontwikkeld. Deze werd echter niet verder ontwikkeld omdat de PDC een concurrende mobiele app hebben gelanceerd.
+
+Toolset: C#, ASP.Net MVC, Javascript, Git, Visual Studio, Entity Framework en SqlServer
 
 `2018`
 **CRM PDPA**, <a href="https://www.pdpa.co.uk/">PDPA<a/>, Cumbria UK
 
 Implementatie van een web-based <a href="https://pdpa.idarts.nl">CRM</a> voor de Professional Darts Players Association. Middels deze applicatie wordt de administratie bijgehouden van dartspelers die meespelen op PDC toernooien.
 
-Toolset: C#, .Net Core MVC, Javascript, Bootstrap, Git.
+Toolset: C#, .Net Core MVC, Javascript, Bootstrap, Git, Entity Framework en SqlServer
 
 `2015-2017`
 **Feiken CRM**, Feiken Verwarming, Amersfoort
 
 Implementatie web-based CRM voor Feiken Verwarming. Met behulp van het CRM worden de contactgegevens van 8000 klanten bijgehouden. Tevens wordt de administratie van de onderhoudswerkzaamheden opgeslagen in het systeem.
 
-Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Azure, Visual Studio DevOps.
+Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Azure, SqlServer, Visual Studio DevOps.
 
 `2004-2018`
 **Dart competitie software**, DID, Delft
 
-Implementatie en onderhouden van de competitie site van <a href="did.idarts.nl">Darts in Delft</a>. Initieel geïmplementeerd in PHP en later geconverteerd naar ASP.NET MVC. Op deze site worden de standen en wedstrijden bijgehouden van circa 800 dartspelers. 
+Implementatie en onderhouden van de competitie site van <a href="http://did.idarts.nl/">Darts in Delft</a>. Initieel geïmplementeerd in PHP en later geconverteerd naar ASP.NET MVC. Op deze site worden de standen en wedstrijden bijgehouden van circa 800 dartspelers. 
 
-Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Visual Studio
+Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Visual Studio, MySql en SqlServer
 
 ## Talen
 
