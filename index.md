@@ -13,15 +13,15 @@ Technische software ontwikkelaar
 
 ## Profiel
 
-In ruim 20 jaar heb ik veel ervaring opgedaan als technische software ontwikkelaar. Middels detachering heb ik mij in verschillende projecten, branches en bedrijven kunnen ontwikkelen. Bij mijn IT werkzaamheden geef ik kwaliteit, oplossingsgericht en klanttevredenheid veel aandacht. De projecten waaraan ik heb meegewerkt zijn technische projecten waarbij aan de systemen en software hoge eisen worden gesteld ten behoeve van de beschikbaarheid en kwaliteit. Mijn specialisme is technische software ontwikkeling met behulp van C/C++/C#/Scripting in de breedste zin van het woord: van functionele specificaties tot de uitrol van het eindproduct. Ik kan goed functioneren in een team, maar daarnaast kan ik mijn werk in hoge mate van zelfstandigheid uitvoeren. Door mijn breedte interesses en goed ontwikkeld analytisch vermogen ben ik een betrouwbare bron van informatie. Nieuwe ontwikkelingen en andere vakgebieden worden snel en enthousiast opgepakt, waardoor ik een creatieve bijdrage kan leveren aan het innovatieve vermogen van het team waarin ik opereer.
+In ruim 20 jaar heb ik veel ervaring opgedaan als technische software ontwikkelaar. Middels detachering heb ik mij in verschillende projecten, branches en bedrijven kunnen ontwikkelen. Bij mijn IT werkzaamheden geef ik kwaliteit, oplossingsgerichtheid en klanttevredenheid veel aandacht. De projecten waaraan ik heb meegewerkt zijn technische projecten waarbij aan de systemen en software hoge eisen worden gesteld ten behoeve van de beschikbaarheid en kwaliteit. Mijn specialisme is technische software ontwikkeling met behulp van C/C++/C#/Scripting in de breedste zin van het woord: van functionele specificaties tot en met het uitrollen van het eindproduct. Ik functioneer goed binnen een team, maar ik voer mijn werk in hoge mate van zelfstandigheid uit. Door mijn brede interesses en goed ontwikkelde analytisch vermogen ben ik een betrouwbare bron van informatie. Nieuwe ontwikkelingen en andere vakgebieden worden snel en enthousiast opgepakt, waardoor ik een creatieve bijdrage kan leveren aan het innovatieve vermogen van het team waarin ik opereer.
 
 ### Markt en branches
 
    * Rijksoverheid
    * Energie en utilities
-   * Civiel- en Geotechniek
+   * Civiel- en geotechniek
 
-### Cariere samenvatting
+### carrière samenvatting
 
    * 2014 - Heden : <a href="https://dianafea.com/">DianaFEA</a>
    * 1996 - 2014 : <a href="https://www.cgi.com/">CMG/Logica/CGI</a>
@@ -29,16 +29,16 @@ In ruim 20 jaar heb ik veel ervaring opgedaan als technische software ontwikkela
 ## Opleiding
 
 `1990-1996`
-__Elektrotechniek, Delft.__
+__Elektrotechniek, TU Delft.__
 
-## Ervaring
+## Werkervaring
 
 `2014 - Heden`
 **Senior sofware engineer**, DianaFEA, multi-purpose eindige elementen software programma, Delft
 
-Diana is een multi-purpose eindige elementen software programma. Sinds 6 jaar wordt er door een team van 6 mensen gewerkt aan een nieuwe gebruikersinterface. Deze interface maakt het mogelijk dat junior constructeurs 'standaard' constructies snel en correct kunnen doorrekenen en ervaren constructeurs kunnen geavanceerde grote constructies modelleren. Dit wordt onder andere  gerealiseerd door een intuïtieve gebruikersinterface, geometrisch modelleren, 3d visualisatie van de resultaten en scripting mogelijkheden. Meer informatie is te zien in de volgende video feed <a href="https://www.youtube.com/user/TNODianaBV/feed">Diana FEA Youtube</a>.
+Diana is een multi-purpose eindige elementen software programma. Sinds 6 jaar wordt er door een team van 6 mensen gewerkt aan een nieuwe gebruikersinterface. Deze interface maakt het mogelijk dat junior constructeurs 'standaard' constructies snel en correct kunnen doorrekenen en ervaren constructeurs kunnen geavanceerde grote constructies modelleren. Dit wordt onder andere gerealiseerd door een intuïtieve gebruikersinterface, geometrisch modelleren, 3d visualisatie van de resultaten en scripting mogelijkheden. Meer informatie is te zien in de volgende video feed <a href="https://www.youtube.com/user/TNODianaBV/feed">Diana FEA Youtube</a>.
 
-De werkzaamheden waren oa:
+De werkzaamheden zijn o.a.:
  * design/implementatie/test grafische user interface.
  * ontsluiten functionaliteit via python api.
  * 3d visualisatie en manipulatie van domain data.
@@ -71,7 +71,7 @@ Het Dynamic Reservoir Modelling System (DRMS/CoFlow) wordt ontwikkeld door CMG (
 
 De focus van het geomechanica project was om het geo-mechanische gedrag van een olie of gasveld te combineren met de Dynamo stroom simulatie. Het team heeft dit bereikt door het gebruik van de eindige elementen simulator van TNO Diana. Via 'GEOMEC' kan de structuur en verschillende eigenschappen van het reservoir worden gedeeld tussen de twee pakketten.   
  
-In het team was ik verantwoordelijk voor de design en implementatie van het IT component van deze nieuwe koppeling. Het component is zowel geintegreerd in Dynamo (zie hieronder) als in DRMS.
+In het team was ik verantwoordelijk voor de design en implementatie van het IT component van deze nieuwe koppeling. Het component is zowel geïntegreerd in Dynamo (zie hieronder) als in DRMS.
 
 |||
 |-|-|
@@ -99,8 +99,7 @@ In het team was ik verantwoordelijk voor ontwerpwerk en belangrijke implementati
 `2003 - 2006`
 **Senior sofware engineer**, CGI - Shell (Exploration and Production), Dynamo, Rotterdam
 
-Shell Exploration and Production (EP) houdt zich bezig met de upstream activiteiten van Shell. Bij deze activiteiten wordt de applicatie Dynamo gebruikt door reservoir engineers voor het bestuderen van het dynamisch gedrag en eigenschappen van olie velden. Binnen het Dynamo ontwikkel team was ik werkzaam als ontwerper en ontwikkelaar. Gedurende deze periode is Dynamo op een hoger niveau gebracht door o.a. 
-verbeteringen aan de architectuur, Qt GUI en de reken kern. Tevens zijn er een aantal koppelingen gerealiseerd naar andere producten via COM, Corba en databases. Een belangrijk onderdeel van mijn werkzaamheden was het ontwerpen en ontwikkelen van de 3D visualisatie in Dynamo. Met behulp van Coin bibliotheek en slimme algoritmen is het mogelijk gemaakt om de grote reservoirs (multi-million grid block) in 3D te kunnen inspecteren.  
+Shell Exploration and Production (EP) houdt zich bezig met de upstream activiteiten van Shell. Bij deze activiteiten wordt de applicatie Dynamo gebruikt door reservoir engineers voor het bestuderen van het dynamisch gedrag en eigenschappen van olie velden. Binnen het Dynamo ontwikkel team was ik werkzaam als ontwerper en ontwikkelaar. Gedurende deze periode is Dynamo op een hoger niveau gebracht door o.a. verbeteringen aan de architectuur, Qt GUI en de reken kern. Tevens zijn er een aantal koppelingen gerealiseerd naar andere producten via COM, Corba en databases. Een belangrijk onderdeel van mijn werkzaamheden was het ontwerpen en ontwikkelen van de 3D visualisatie in Dynamo. Met behulp van Coin bibliotheek en slimme algoritmen is het mogelijk gemaakt om de grote reservoirs (multi-million grid block) in 3D te kunnen inspecteren.  
  
 |||
 |-|-|
@@ -113,13 +112,12 @@ verbeteringen aan de architectuur, Qt GUI en de reken kern. Tevens zijn er een a
  `2001 - 2003`
 **Sofware engineer**, CGI - Rijkswaterstaat (Directie zeeland), NSTA, Den Haag
 
-Dit project richt zich op de Stormvloedkering Oosterschelde en wel op Zoekresultaten
-Webresultaten één specifiek aspect daarvan, namelijk het zogeheten "noodsluitsysteem", het NSTA. Het NSTA maakt deel uit van het totale beheers- en bedieningssysteem van de Stormvloedkering Oosterschelde. Zonder menselijke tussenkomst zal het NSTA de stormvloedkering sluiten zodra de waterstand vastgestelde grenzen overschrijdt. Bij het realiseren van het NSTA systeem was ik onderdeel van het bouwteam. Binnen dit team was ik actief als programmeur en als bouwteamleider. 
+Dit project richt zich op de Stormvloedkering Oosterschelde en wel op één specifiek aspect daarvan, namelijk het zogeheten "noodsluitsysteem", het NSTA. Het NSTA maakt deel uit van het totale beheers- en bedieningssysteem van de Stormvloedkering Oosterschelde. Zonder menselijke tussenkomst zal het NSTA de Stormvloedkering sluiten zodra de waterstand vastgestelde grenzen overschrijdt. Bij het realiseren van het NSTA systeem was ik onderdeel van het bouwteam. Binnen dit team was ik actief als programmeur en als bouwteamleider. 
 
 |||
 |-|-|
 | Methodieken | Formele methode: Z, Promela |
-| Tools | SDW, ZTC (Z-type checker), CMSynergy, Unix tools (bijv: ksh, bash, , awk, sed, make), QA/C++, CodeCheck |
+| Tools | SDW, ZTC (Z-type checker), CMSynergy, Unix tools (bijv: ksh, bash, awk, sed, make), QA/C++, CodeCheck |
 | Operating Systems | VME OS9, HP-UX 11.0 (test environment) |
 | Talen | C++ |
 | Kenmerken | Mission Critical System, Oosterschelde kering | 
@@ -128,23 +126,22 @@ Webresultaten één specifiek aspect daarvan, namelijk het zogeheten "noodsluits
 `1999 - 2001`
 **Sofware engineer**, CGI - Rijkswaterstaat (Advies dienst verkeer en vervoer)), Muliv, Den Haag
 
-De Adviesdienst Verkeer en Vervoer (AVV) heeft een nieuw verkeers-signaleringsysteem beheer systeem (MTM2) laten ontwikkelen. Met dit systeem worden de signaleringsystemen bestuurd in geval van verkeerscalamiteiten. Door tegenvallende resultaten is het Muliv project opgericht om MTM2 uit te ontwikkelen en vervolgens landelijk te implementeren. Ik heb als software engineer meegedraaid in het implementatie team.  
+De Adviesdienst Verkeer en Vervoer (AVV) heeft een nieuw verkeers-signaleringsysteem beheer systeem (MTM2) laten ontwikkelen. Met dit systeem worden de signaleringsystemen bestuurd in geval van verkeerscalamiteiten. Door tegenvallende resultaten is het Muliv project opgericht om MTM2 uit te ontwikkelen en vervolgens landelijk te implementeren. Ik heb als software engineer meegewerkt in het implementatie team.  
  
  `1998 - 1999`
-**Sofware engineer**, CGI - Rijkswaterstaat (Directie Noordzee)), vernieuwing meetnet noordzee, Den Haag
+**Sofware engineer**, CGI - Rijkswaterstaat (Directie Noordzee), vernieuwing meetnet noordzee, Den Haag
 
-Directie Noordzee van Rijkswaterstaat verwerft meteorologische en oceanografische gegevens van de Noordzee via 'het meetnet'. Deze gegevens worden vervolgens beschikbaar gemaakt aan derden. Het probleem van het meetnet Noordzee was dat deze door ouderdom niet meer voldeed aan de huidige eisen. Een projectteam is opgericht om 
-in 1 jaar tijd het oude meetnet te ontmantelen en een nieuw meetnet te realiseren. In het project team heb ik een aantal rollen vervuld: ontwerper, ontwikkelaar, tester, systeembeheerder en netwerk deskundige.
+Directie Noordzee van Rijkswaterstaat verwerft meteorologische en oceanografische gegevens van de Noordzee via 'het meetnet'. Deze gegevens worden vervolgens beschikbaar gemaakt aan derden. Het probleem van het meetnet Noordzee was dat deze door ouderdom niet meer voldeed aan de huidige eisen. Een projectteam is opgericht om in 1 jaar tijd het oude meetnet te ontmantelen en een nieuw meetnet te realiseren. In het projectteam heb ik een aantal rollen vervuld: ontwerper, ontwikkelaar, tester, systeembeheerder en netwerk deskundige.
  
 `1997 - 1998`
 **Sofware engineer**, CGI - Rijkswaterstaat (Directie RIKZ)), RMI Distributie en Validatie, Den Haag
 
-Rondom de Rijkswaterstaat meetnetten zijn een aantal applicaties gerealiseerd. Al deze applicaties zijn volgens het RMI standaard geÃ¯mplementeerd. Deze standaard beschrijft hoe de data vanaf de sensor naar een gebruiker wordt getransporteerd met standaard componenten. EÃ©n van deze componenten is RMI Distributie (Rijkswaterstaat Meetnet Infrastructuur). De functionaliteit van de applicatie is het verzamelen, bewerken, bewaren en distribueren van meetgegevens. Gedurende de periode als ontwerper, ontwikkelaar en tester in het team meegewerkt.
+Rondom de Rijkswaterstaat meetnetten zijn een aantal applicaties gerealiseerd. Al deze applicaties zijn volgens het RMI standaard geïmplementeerd. Deze standaard beschrijft hoe de data vanaf de sensor naar een gebruiker wordt getransporteerd met standaard componenten. Eén van deze componenten is RMI Distributie (Rijkswaterstaat Meetnet Infrastructuur). De functionaliteit van de applicatie is het verzamelen, bewerken, bewaren en distribueren van meetgegevens. Gedurende de periode heb ik als ontwerper, ontwikkelaar en tester in het team meegewerkt.
 
 `1996 - 1997`
-**Test engineer**, CGI - Rijkswaterstaat (Directie RIKZ)), BOS Beslis en ondersteunend systeem, Den Haag
+**Test engineer**, CGI - Rijkswaterstaat (Directie RIKZ), BOS Beslis en ondersteunend systeem, Den Haag
 
-Meegewerkt als tester en bouwer in het project Beslis- en Ondersteunend Systeem (BOS) van de stormvloedkering Nieuwe Waterweg. Dit systeem moet in geval van hoog water, zonder tussen komst van de mens, de stormvloedkering in de nieuwe waterweg afsluiten. BOS is een project waaraan bijzonder hoge eisen met betrekking tot de betrouwbaarheid van de programmatuur wordt gesteld. Binnen het project was ik verantwoordelijk voor het testen van de compiler en interpeter van het system. Daarnaast heb ik het ontwerp en de bouw van de simulator van het PLC-besturings-systeem van de kering voor mijn rekening genomen
+Meegewerkt als tester en bouwer in het project Beslis- en Ondersteunend Systeem (BOS) van de Stormvloedkering Nieuwe Waterweg. Dit systeem moet in geval van hoog water, zonder tussenkomst van de mens, de stormvloedkering in de nieuwe waterweg afsluiten. BOS is een project waaraan bijzonder hoge eisen met betrekking tot de betrouwbaarheid van de programmatuur wordt gesteld. Binnen het project was ik verantwoordelijk voor het testen van de compiler en interpeter van het system. Daarnaast heb ik het ontwerp en de bouw van de simulator van het PLC-besturings-systeem van de kering voor mijn rekening genomen
 
 ## Overige projecten
 
@@ -153,7 +150,7 @@ Meegewerkt als tester en bouwer in het project Beslis- en Ondersteunend Systeem 
 
 <a href="https://stats.idarts.nl">Content delivery site</a> voor dart statistieken. In opdracht van de tv commentator en dart deskundige J. Nieuwlaat heb ik een dart web application gerealiseerd. Hierin worden de uitslagen van de grote darttoernooien opgeslagen. Inmiddels zijn dit een kwart miljoen wedstrijden verdeelt over 1000 toernooien. Dagelijks wordt deze site geraadpleegd en aangevuld door RTL7 dartverslaggevers. Tevens is er een web api gerealiseerd om data te kunnen aanleveren aan derden. Huidige klanten zijn o.a.: PDC, RTL7 site, mastercaller site en de Bulls dart site. 
 
-Voor deze web applicatie is ook een concept Xamarin mobile applicatie ontwikkeld. Deze werd echter niet verder ontwikkeld omdat de PDC een concurrende mobiele app hebben gelanceerd.
+Voor deze web applicatie is ook een concept Xamarin mobile applicatie ontwikkeld. Deze werd echter niet verder ontwikkeld omdat de PDC een concurrende mobiele app heeeft gelanceerd.
 
 Toolset: C#, ASP.Net MVC, Javascript, Git, Visual Studio, Entity Framework en SqlServer
 
@@ -180,14 +177,14 @@ Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Visual Studio
 
 ## Talen
 
-   * Nederlands
-   * Engels 
+   * Nederlands in woord en geschrift
+   * Engels in woord en geschrift 
    
 ## Hobbies   
 
-Computers, Computer Graphics, Website design, Web (verschillende sites ontworpen en gerealiseerd), lezen, muziek, films, puzzelen, geocachen, MTB, tennis, squash en snowboarden. 
+Computers, Computer Graphics, Webdesign (verschillende sites ontworpen en gerealiseerd), lezen, muziek, films, puzzelen, geocachen, MTB, tennis, squash en snowboarden. 
 
-In de afgelopen jaren heb ik een freelance design studio geholpen bij het ontwerpen en implementeren van verschillende websites. Hierbij ben ik in aanraking gekomen met een grote verscheidenheid van talen, tools en framewerken. Voorbeelden did.idarts.nl, cinfield.nl, bouwgrip.nl, alpinesports.nl. 
+In de afgelopen jaren heb ik een freelance design studio geholpen bij het ontwerpen en implementeren van verschillende websites. Hierbij ben ik in aanraking gekomen met een grote verscheidenheid van talen, tools en framewerken. Voorbeelden did.idarts.nl, catchy-design.nl, lemonpattern.com, bouwgrip.nl, alpinesports.nl. 
 Een selectie van de tools en technieken: PHP, MySql, Wordpress, Silverstripe, HTML, XML, CSS, ASP.NET MVC, SqlServer, Javascript, C#, Entity Framework, Code First, JQuery, JQuery UI, Ajax, knockout, SignalR en Twitter Bootstrap.
 
 <!-- ### Footer 
