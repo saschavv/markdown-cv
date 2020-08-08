@@ -21,7 +21,7 @@ In ruim 20 jaar heb ik veel ervaring opgedaan als technische software ontwikkela
    * Energie en utilities
    * Civiel- en geotechniek
 
-### carrière samenvatting
+### Carrière samenvatting
 
    * 2014 - Heden : <a href="https://dianafea.com/">DianaFEA</a>
    * 1996 - 2014 : <a href="https://www.cgi.com/">CMG/Logica/CGI</a>
