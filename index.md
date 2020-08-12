@@ -18,15 +18,18 @@ In ruim 20 jaar heb ik veel ervaring opgedaan als technische software ontwikkela
 ### Markt en branches
 
 Ervaring in de volgende markten en branches
+
    * Rijksoverheid
    * Energie en utilities
    * Civiel- en geotechniek
 
 ### Carrière samenvatting
 
-`2014 - Heden` <a href="https://dianafea.com/">DianaFEA</a>
+`2014-Heden`
+<a href="https://dianafea.com/">DianaFEA</a>
 
-`1996 - 2014` <a href="https://www.cgi.com/">CMG/Logica/CGI</a>
+`1996-2014`
+<a href="https://www.cgi.com/">CMG/Logica/CGI</a>
 
 ## Opleiding
 
@@ -50,7 +53,7 @@ De werkzaamheden zijn o.a.:
 |-|-|
 |Methodieken | Object Georiënteerd Ontwerp, Code reviews |
 |Tools | Subversion, QtCreator, Squish (Gui Test Automation), Visual Studio, Jenkins, Pivotal Tracker |
-|Operating Systems | Windows 10, Linux Centos |
+|Systems | Windows 10, Linux Centos |
 |Talen | C++, Python, CMake, Swig |
 |Libs| <a href="https://en.wikipedia.org/wiki/Parasolid">Parasolid</a>, <a href="https://www.qt.io/">Qt</a>, <a href="https://www.computing-objects.com/">CM2 mesher</a>, <a href="https://vtk.org/">VTK</a>
 | Kenmerken | GUI, 3D, Eindige elementen |
@@ -64,7 +67,7 @@ Het Dynamic Reservoir Modelling System (DRMS/CoFlow) wordt ontwikkeld door CMG (
 |-|-|
 |Methodieken | Object Georiënteerd Ontwerp, UML, Scrum, Test driven development, Code reviews |
 |Tools | Subversion Visual Studio 2010/2012, SqlServer, NUnit |
-|Operating Systems | Windows 7, Linux Redhat, Mono |
+|Systems | Windows 7, Linux Redhat, Mono |
 |Talen |  C#, Python, WPF, Scons, MSBuild |
 | Kenmerken | API design, Reservoir Simulation, Global development team |
 
@@ -79,7 +82,7 @@ In het team was ik verantwoordelijk voor de design en implementatie van het IT c
 |-|-|
 |Methodieken | Object Georiënteerd Ontwerp, UML, Code reviews |
 |Tools | Subversion, Intel compiler, Make |
-|Operating Systems | Windows 7, Linux Redhat. |
+|Systems | Windows 7, Linux Redhat. |
 |Talen | C++/C#/Managed versus Unmanged .NET |
 |Kenmerken | Geomechancics, Rescue Fileformat, Gridding |
 
@@ -95,7 +98,7 @@ In het team was ik verantwoordelijk voor ontwerpwerk en belangrijke implementati
 |-|-|
 | Methodieken | Object Georiënteerd Ontwerp, RUP, Test Driven Development |
 | Tools | Microsoft Visual Studio 2005, Sql Server Management studio, Subversion, Altova (XMLSpy), VMWare, MyGeneration |
-| Operating Systems | Windows XP, Windows 2000, Windows XP 64-bit |
+| Systems | Windows XP, Windows 2000, Windows XP 64-bit |
 | Talen  | C#, Sql, XML, XSD, XSLT, XPATH, Windows Workflow Foundations, IronPython |  
  
 `2003 - 2006`
@@ -107,7 +110,7 @@ Shell Exploration and Production (EP) houdt zich bezig met de upstream activitei
 |-|-|
 | Methodieken | Object Georiënteerd Ontwerp, UML, RUP |
 | Tools | Microsoft Visual C++, Intel Compiler, Lint, GNUmake, Insure++, Wise for Windows installer 3.51 and hoger, CVS, Apache, Qt, Coin3d, OpenGL, ODBC, CORBA, COM |
-| Operating Systems | Windows XP, Windows 2000, Windows XP 64-bit, Linux, Linux 64-bit, AIX 4.3, AIX 5.1, SunOS 5.8 |
+| Systems | Windows XP, Windows 2000, Windows XP 64-bit, Linux, Linux 64-bit, AIX 4.3, AIX 5.1, SunOS 5.8 |
 | Talen | C++, Fortran, Perl, Xerces, XML, XSLT, XPATH |
 | Kenmerken | Reservoir Simulator, wereldwijde gebruikers groep |
  
@@ -120,7 +123,7 @@ Dit project richt zich op de Stormvloedkering Oosterschelde en wel op één spec
 |-|-|
 | Methodieken | Formele methode: Z, Promela |
 | Tools | SDW, ZTC (Z-type checker), CMSynergy, Unix tools (bijv: ksh, bash, awk, sed, make), QA/C++, CodeCheck |
-| Operating Systems | VME OS9, HP-UX 11.0 (test environment) |
+| Systems | VME OS9, HP-UX 11.0 (test environment) |
 | Talen | C++ |
 | Kenmerken | Mission Critical System, Oosterschelde kering | 
 
@@ -195,8 +198,9 @@ Computers, Computer Graphics, Webdesign (verschillende sites ontworpen en gereal
 In de afgelopen jaren heb ik een freelance design studio geholpen bij het ontwerpen en implementeren van verschillende websites. Hierbij ben ik in aanraking gekomen met een grote verscheidenheid van talen, tools en framewerken. Voorbeelden did.idarts.nl, catchy-design.nl, lemonpattern.com, bouwgrip.nl, alpinesports.nl. 
 Een selectie van de tools en technieken: PHP, MySql, Wordpress, Silverstripe, HTML, XML, CSS, ASP.NET MVC, SqlServer, Javascript, C#, Entity Framework, Code First, JQuery, JQuery UI, Ajax, knockout, SignalR en Twitter Bootstrap.
 
-<!-- ### Footer 
-   Last updated: Juli 2020 -
-->
+
+<div id='footer'>
+Last updated: August 2020 -
+</div>
 
 

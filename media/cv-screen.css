@@ -47,6 +47,10 @@ table {
 	border-spacing: 0;
 }
 
+table td {
+  padding:2px;
+}
+
 /* end of reset */
 
 /* faux Wikipedia logo font */
@@ -85,7 +89,7 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 26%;
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
@@ -158,6 +162,18 @@ a {
 
 a:hover {
 	color:#39f
+}
+
+table {
+    position: relative;
+    left: 27%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;
+}
+
+table > thead {
+  display: none
 }
 
 #webaddress {
