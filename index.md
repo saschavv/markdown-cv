@@ -17,14 +17,16 @@ In ruim 20 jaar heb ik veel ervaring opgedaan als technische software ontwikkela
 
 ### Markt en branches
 
+Ervaring in de volgende markten en branches
    * Rijksoverheid
    * Energie en utilities
    * Civiel- en geotechniek
 
 ### Carrière samenvatting
 
-   * 2014 - Heden : <a href="https://dianafea.com/">DianaFEA</a>
-   * 1996 - 2014 : <a href="https://www.cgi.com/">CMG/Logica/CGI</a>
+`2014 - Heden`: <a href="https://dianafea.com/">DianaFEA</a>
+
+`1996 - 2014`: <a href="https://www.cgi.com/">CMG/Logica/CGI</a>
 
 ## Opleiding
 
@@ -145,12 +147,19 @@ Meegewerkt als tester en bouwer in het project Beslis- en Ondersteunend Systeem 
 
 ## Overige projecten
 
+`2020-Heden`
+**WDF Dart Connect**, The World Darts Federation, US
+
+Een web applicatie waarmee de World Dart Federeation alle competitie wedstrijden kunnen bijhouden. De applicatie wordt gekoppeld met de mastercaller darts database. All rankings van de WDF worden dan automatisch berekend door de mastercaller dart web site.
+
+Toolset: C#, .Net Core MVC, Javascript,Bootstrap Git, Visual Studio, Entity Framework en SqlServer
+
 `2015-Heden`
 **Dart Statistieken**, Mastercaller, Delft
 
 <a href="https://stats.idarts.nl">Content delivery site</a> voor dart statistieken. In opdracht van de tv commentator en dart deskundige J. Nieuwlaat heb ik een dart web application gerealiseerd. Hierin worden de uitslagen van de grote darttoernooien opgeslagen. Inmiddels zijn dit een kwart miljoen wedstrijden verdeelt over 1000 toernooien. Dagelijks wordt deze site geraadpleegd en aangevuld door RTL7 dartverslaggevers. Tevens is er een web api gerealiseerd om data te kunnen aanleveren aan derden. Huidige klanten zijn o.a.: PDC, RTL7 site, mastercaller site en de Bulls dart site. 
 
-Voor deze web applicatie is ook een concept Xamarin mobile applicatie ontwikkeld. Deze werd echter niet verder ontwikkeld omdat de PDC een concurrende mobiele app heeeft gelanceerd.
+Voor deze web applicatie is ook een concept Xamarin mobile applicatie ontwikkeld. Deze werd echter niet verder ontwikkeld omdat de PDC een concurrende mobiele app heeft gelanceerd.
 
 Toolset: C#, ASP.Net MVC, Javascript, Git, Visual Studio, Entity Framework en SqlServer
 
@@ -177,8 +186,9 @@ Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Visual Studio
 
 ## Talen
 
-   * Nederlands in woord en geschrift
-   * Engels in woord en geschrift 
+`Nederlands` in woord en geschrift
+
+`Engels` in woord en geschrift 
    
 ## Hobbies   
 
