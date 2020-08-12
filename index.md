@@ -24,9 +24,9 @@ Ervaring in de volgende markten en branches
 
 ### Carrière samenvatting
 
-`2014 - Heden`: <a href="https://dianafea.com/">DianaFEA</a>
+`2014 - Heden` <a href="https://dianafea.com/">DianaFEA</a>
 
-`1996 - 2014`: <a href="https://www.cgi.com/">CMG/Logica/CGI</a>
+`1996 - 2014` <a href="https://www.cgi.com/">CMG/Logica/CGI</a>
 
 ## Opleiding
 
@@ -46,7 +46,7 @@ De werkzaamheden zijn o.a.:
  * 3d visualisatie en manipulatie van domain data.
  * design/implementie/test uitbereidingen domain model.
  
-|||
+| | |
 |-|-|
 |Methodieken | Object Georiënteerd Ontwerp, Code reviews |
 |Tools | Subversion, QtCreator, Squish (Gui Test Automation), Visual Studio, Jenkins, Pivotal Tracker |
@@ -186,9 +186,7 @@ Talen en tools: C#, ASP.Net MVC, PHP, Javascript, Subversion, Git, Visual Studio
 
 ## Talen
 
-`Nederlands` in woord en geschrift
-
-`Engels` in woord en geschrift 
+Nederlands en engels in woord en geschrift
    
 ## Hobbies   
 
